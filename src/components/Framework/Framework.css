@@ -1,0 +1,88 @@
+.workshops-section {
+  padding: 60px 0;
+  background-color: rgba(9, 4, 18, 0.4);
+  border-radius: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.purple {
+  color: #9754CB;
+}
+
+.workshops-title {
+  text-align: center;
+  font-size: 2.6em;
+  margin-top: 40px;
+}
+
+.workshop-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.workshop-card {
+  background-color: rgba(9, 4, 18, 0.8);
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 10px;
+  width: 30%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.workshop-image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.workshop-details {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.workshop-name {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.workshop-description {
+  font-size: 1em;
+  margin-bottom: 20px;
+  flex: 1;
+}
+
+.workshop-date,
+.workshop-time {
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+.workshop-register-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #9754CB;
+  color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.workshop-register-button:hover {
+  background-color: #79419B;
+}

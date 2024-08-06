@@ -1,0 +1,139 @@
+.home-about-section {
+  padding: 50px 0;
+  opacity: 0;
+  animation: fadeIn 1s forwards;
+}
+
+.home-about-description {
+  margin-bottom: 30px;
+  animation: slideInLeft 1s ease-out;
+}
+
+.home-about-stats-section {
+  background-color: rgba(9, 4, 18, 0.4);
+  border-radius: 10px;
+  padding: 40px 20px;
+  color: white;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  opacity: 0;
+  animation: fadeIn 1.5s forwards 0.5s;
+}
+
+.home-about-stats .stat-icon {
+  font-size: 3.5em; /* Increase font size */
+  transition: transform 0.3s ease, color 0.3s ease;
+  opacity: 0;
+  animation: zoomIn 1s ease forwards 0.3s;
+}
+
+.home-about-stats .stat-icon:hover {
+  transform: scale(1.1);
+  color: #b185e8;
+}
+
+.home-about-stats .stat-number {
+  color: #DEACF5;
+  font-size: 1.75em; /* Increase font size */
+  margin: 10px 0;
+  opacity: 0;
+  animation: fadeInUp 1s ease forwards 0.6s;
+}
+
+.home-about-stats .stat-description {
+  font-size: 1.1em;
+  opacity: 0;
+  animation: fadeInUp 1s ease forwards 0.9s;
+}
+
+.stats-image {
+  width: 90%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  opacity: 0;
+  animation: fadeIn 1s ease forwards 1.2s;
+}
+
+.home-about-social {
+  text-align: center;
+  margin-top: 50px;
+  opacity: 0;
+  animation: fadeIn 1.5s forwards 1.5s;
+}
+
+.home-about-social h1 {
+  font-size: 2.5em;
+}
+
+.home-about-social p {
+  font-size: 1.2em;
+}
+
+.home-about-social .social-icons {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.home-about-social .home-social-icons {
+  font-size: 2em;
+  color: #9754CB;
+  transition: color 0.3s ease, transform 0.3s ease;
+  opacity: 0;
+  animation: fadeIn 1s ease forwards 1.8s;
+}
+
+.home-about-social .home-social-icons:hover {
+  color: #b185e8;
+  transform: scale(1.1);
+}
+
+.stats-intro {
+  max-width: 50%;
+  margin: 0 auto;
+  opacity: 0;
+  animation: fadeIn 1s ease forwards 2.1s;
+}
+
+/* Keyframes for animations */
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    transform: translateX(-50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes zoomIn {
+  from {
+    transform: scale(0.5);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

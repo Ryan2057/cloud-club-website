@@ -1,0 +1,27 @@
+.about-section {
+    padding: 60px 0;
+  }
+  
+  .purple {
+    color: #9754CB;
+  }
+  
+  .about-description {
+    margin-bottom: 40px;
+  }
+  
+  .about-stat {
+    margin-top: 20px;
+  }
+  
+  .about-stat-icon {
+    font-size: 4em;
+    margin-bottom: 10px;
+    color: #9754CB;
+  }
+  
+  .about-stat h2 {
+    font-size: 1.5em;
+    margin-top: 10px;
+  }
+  
