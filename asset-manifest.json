@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/cloud-club-website/static/css/main.9bc48705.css",
+    "main.js": "/cloud-club-website/static/js/main.6559a3fc.js",
+    "static/js/453.ace21015.chunk.js": "/cloud-club-website/static/js/453.ace21015.chunk.js",
+    "static/media/communityLead.jpg": "/cloud-club-website/static/media/communityLead.658a161ff69d2c91ef05.jpg",
+    "static/media/our_stats2.jpg": "/cloud-club-website/static/media/our_stats2.8850eb34edb302afa35e.jpg",
+    "static/media/our_stats1.jpg": "/cloud-club-website/static/media/our_stats1.13a52995957bceab3aba.jpg",
+    "static/media/event3.jpg": "/cloud-club-website/static/media/event3.047afcb54748808b3a7d.jpg",
+    "static/media/workshop2.jpg": "/cloud-club-website/static/media/workshop2.93f433eb77e00e24969e.jpg",
+    "static/media/lead2.jpg": "/cloud-club-website/static/media/lead2.ab784e75ff29125bcc6a.jpg",
+    "static/media/lead3.jpg": "/cloud-club-website/static/media/lead3.303b8d2356227405b46c.jpg",
+    "static/media/home-bg1.jpg": "/cloud-club-website/static/media/home-bg1.146efe2274705a291b05.jpg",
+    "static/media/home-bg4.jpg": "/cloud-club-website/static/media/home-bg4.de99cd69b730a9ba64f4.jpg",
+    "static/media/workshop1.jpg": "/cloud-club-website/static/media/workshop1.39a9372ef931436bf04c.jpg",
+    "static/media/home-bg5.jpg": "/cloud-club-website/static/media/home-bg5.835e8b38da2bbb7e38e1.jpg",
+    "static/media/workshop3.jpg": "/cloud-club-website/static/media/workshop3.cb59573a8044bb917091.jpg",
+    "static/media/home-bg3.jpg": "/cloud-club-website/static/media/home-bg3.ec191885fe7b3c4c2285.jpg",
+    "static/media/vishal.jpg": "/cloud-club-website/static/media/vishal.f4bc4831fcf31a7f821e.jpg",
+    "static/media/home-bg2.jpg": "/cloud-club-website/static/media/home-bg2.32e2397694472f262f23.jpg",
+    "static/media/vishagan.jpg": "/cloud-club-website/static/media/vishagan.36408921c57310e903f4.jpg",
+    "static/media/lead1.jpg": "/cloud-club-website/static/media/lead1.dcf893ceef0b190e16c4.jpg",
+    "static/media/soundariya.jpg": "/cloud-club-website/static/media/soundariya.9081ffbf7b5c1486c5a1.jpg",
+    "static/media/pre.svg": "/cloud-club-website/static/media/pre.4166bcaa1389033d173e.svg",
+    "index.html": "/cloud-club-website/index.html",
+    "main.9bc48705.css.map": "/cloud-club-website/static/css/main.9bc48705.css.map",
+    "main.6559a3fc.js.map": "/cloud-club-website/static/js/main.6559a3fc.js.map",
+    "453.ace21015.chunk.js.map": "/cloud-club-website/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bc48705.css",
+    "static/js/main.6559a3fc.js"
+  ]
+}
